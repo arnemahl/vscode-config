@@ -1,0 +1,17 @@
+{
+  "window.restoreWindows": "none",
+  "files.hotExit": "off",
+  "editor.fontSize": 20,
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "workbench.colorTheme": "Monokai",
+  "window.zoomLevel": 1,
+  "editor.renderLineHighlight": "gutter",
+  "editor.formatOnSave": true,
+  "explorer.openEditors.visible": 0,
+  "explorer.autoReveal": false,
+  "breadcrumbs.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
