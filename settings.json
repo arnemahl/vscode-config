@@ -1,4 +1,5 @@
 {
+  "telemetry.enableTelemetry": false,
   "window.restoreWindows": "none",
   "files.hotExit": "off",
   "editor.fontSize": 20,
