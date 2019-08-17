@@ -206,6 +206,10 @@
     "command": "workbench.action.focusActiveEditorGroup"
   },
   {
+    "key": "ctrl+[BracketLeft]",
+    "command": "workbench.files.action.collapseExplorerFolders"
+  },
+  {
     "key": "shift+alt+s",
     "command": "workbench.action.files.saveAll"
   }
