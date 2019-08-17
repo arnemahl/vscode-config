@@ -204,5 +204,9 @@
   {
     "key": "ctrl+shift+0",
     "command": "workbench.action.focusActiveEditorGroup"
+  },
+  {
+    "key": "shift+alt+s",
+    "command": "workbench.action.files.saveAll"
   }
 ]
