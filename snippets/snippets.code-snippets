@@ -1,0 +1,26 @@
+{
+	"log": {
+		"scope": "javascript,typescript,typescriptreact",
+		"prefix": "log",
+		"body": [
+			"console.log('$1');$0"
+		],
+		"description": "Log output to console"
+	},
+	"ldd": {
+		"scope": "javascript,typescript,typescriptreact",
+		"prefix": "ldd",
+		"body": [
+			"console.log(`$1`, $1);$0"
+		],
+		"description": "Log output to console"
+	},
+	"ld2": {
+		"scope": "javascript,typescript,typescriptreact",
+		"prefix": "ld2",
+		"body": [
+			"console.log(`$1`, $2);$0"
+		],
+		"description": "Log output to console"
+	},
+}
