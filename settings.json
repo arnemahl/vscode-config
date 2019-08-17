@@ -8,7 +8,7 @@
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.snippetSuggestions": "top",
   "workbench.colorTheme": "Monokai",
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
   "editor.renderLineHighlight": "gutter",
   "editor.formatOnSave": true,
   "explorer.openEditors.visible": 0,
